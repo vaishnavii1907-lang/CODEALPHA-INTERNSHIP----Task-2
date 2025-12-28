@@ -97,3 +97,9 @@ The notebook is error-free, well-structured, and suitable for internship submiss
 📌 Author
 Name: Vaishnavi K 
 Role: Data Analyst / Data Science Intern
+
+
+![output 1](https://github.com/user-attachments/assets/a79a8bf1-3447-4bfa-b221-4fe4840b7722)
+![output 12](https://github.com/user-attachments/assets/8c6e8ead-ce07-4b83-a437-a2fe5aae4c15)
+
+
