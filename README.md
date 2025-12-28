@@ -100,6 +100,16 @@ Role: Data Analyst / Data Science Intern
 
 
 ![output 1](https://github.com/user-attachments/assets/a79a8bf1-3447-4bfa-b221-4fe4840b7722)
+![output 2](https://github.com/user-attachments/assets/de7958c0-090c-4b1d-abcb-935710e26b07)
+![ouput 3](https://github.com/user-attachments/assets/7b4cc812-a0c9-4a7c-9d5a-e18e39d26bb9)
+![output 4](https://github.com/user-attachments/assets/a8c41fbe-b3ab-48c1-87be-5485b1a41f71)
+![output 5](https://github.com/user-attachments/assets/cf4f4067-f22f-47b8-8c8c-605132baae06)
+![output 6](https://github.com/user-attachments/assets/f5a7ed40-cb81-4dd7-8140-5a988f8d46d4)
+![output 7](https://github.com/user-attachments/assets/55b58698-4ba3-4adf-98d3-c0d619ea0cb4)
+![output 8](https://github.com/user-attachments/assets/eb886c8a-93b1-41ba-8883-cea7940b62e8)
+![output 9](https://github.com/user-attachments/assets/3d2e43d1-dee1-45f1-8db2-c1822e11667d)
+![output 10](https://github.com/user-attachments/assets/aa303be5-deb9-46d1-9505-c0468762fd54)
+![output 11](https://github.com/user-attachments/assets/60ffb2e7-9004-42bd-8d0a-776169a51e15)
 ![output 12](https://github.com/user-attachments/assets/8c6e8ead-ce07-4b83-a437-a2fe5aae4c15)
 
 
