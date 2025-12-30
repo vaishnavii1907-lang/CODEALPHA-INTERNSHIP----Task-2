@@ -1,5 +1,11 @@
 # CODEALPHA-INTERNSHIP----Task-2
 
+Name: Vaishnavi K
+Company: codealpha
+Internship ID: CA/DE1/3617
+Domain: Data Analytics / EDA
+Duration: 1st December to 30th December
+
 📊 Exploratory Data Analysis (EDA) – Internship Project
 📌 Project Objective
 The main objective of this project is to perform Exploratory Data Analysis (EDA) on a dataset in order to:
